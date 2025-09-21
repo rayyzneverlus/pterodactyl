@@ -1,7 +1,7 @@
 debug: false
-uuid: dd05571c-00c0-4cd6-b4c6-cf7fce996860
-token_id: yO6U2GnRkhHlc4Lu
-token: YPJt1GbKhox3dVZS7pokKFFohCPgcqj1VucSlwQ2uEI9k4Rw2rgNAU0NuWiKCMd3
+uuid: 6d296667-9f93-4995-a65d-bf1b1f67aaf0
+token_id: 4apMtI48VzT8jYi5
+token: 7cKPGnBq4PramgCfvhgZAy33GyJ2l8sdLYZxBjXJDsaCiyBMJapYMDRBy42RAjgq
 api:
   host: 0.0.0.0
   port: 8080
@@ -15,4 +15,4 @@ system:
   sftp:
     bind_port: 2022
 allowed_mounts: []
-remote: 'https://farelpanel.mnz.dom.my.id'
+remote: 'https://panel.farel.biz.id'
