@@ -1,0 +1,18 @@
+debug: false
+uuid: dd05571c-00c0-4cd6-b4c6-cf7fce996860
+token_id: yO6U2GnRkhHlc4Lu
+token: YPJt1GbKhox3dVZS7pokKFFohCPgcqj1VucSlwQ2uEI9k4Rw2rgNAU0NuWiKCMd3
+api:
+  host: 0.0.0.0
+  port: 443
+  ssl:
+    enabled: true
+    cert: /etc/letsencrypt/live/mynode.ptrdctyl.my.id/fullchain.pem
+    key: /etc/letsencrypt/live/mynode.ptrdctyl.my.id/privkey.pem
+  upload_limit: 100
+system:
+  data: /var/lib/pterodactyl/volumes
+  sftp:
+    bind_port: 2022
+allowed_mounts: []
+remote: 'https://farelpanel.mnz.dom.my.id'
