@@ -4,7 +4,7 @@ token_id: yO6U2GnRkhHlc4Lu
 token: YPJt1GbKhox3dVZS7pokKFFohCPgcqj1VucSlwQ2uEI9k4Rw2rgNAU0NuWiKCMd3
 api:
   host: 0.0.0.0
-  port: 443
+  port: 8080
   ssl:
     enabled: true
     cert: /etc/letsencrypt/live/mynode.ptrdctyl.my.id/fullchain.pem
